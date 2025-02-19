@@ -1,7 +1,8 @@
 ### Hi there 👋 ###
-My name is Mingkun (Bruce) Wu. I enjoy constructing coherent narratives that explain our chaotic world. 
+My name is Mingkun (Bruce) Wu. **I enjoy constructing coherent narratives that explain our chaotic world.**
 
 And I believe that this is best achieved through interdisciplinary approaches grounded in cross-cultural awareness.
+
 ---
 :rocket: *Things that I am passionate about*:
 - Data
